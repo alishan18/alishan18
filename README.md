@@ -41,7 +41,7 @@
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-1B5E20?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1565C0?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1565C0?style=for-the-badge&logo=sql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-BF360C?style=for-the-badge&logo=git&logoColor=white)
