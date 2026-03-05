@@ -1,5 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I am Abubakar Tahir
-<br>I'm a graduate student in Electrical & Computer Engineering at Michigan Technological University. My passion lies at the intersection of embedded systems, IoT, and machine learning
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I am ....
 
 ![](https://komarev.com/ghpvc/?username=iabubakartahir&color=blueviolet)
 
